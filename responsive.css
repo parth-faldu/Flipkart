@@ -1,0 +1,325 @@
+@media screen and (max-width:400px) {
+    nav {
+        padding: 0px;
+        width: 100vw;
+        padding: 5% 12px 15% 0px;
+        z-index: 5;
+    }
+
+    .menu {
+        background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI1IDI0IiBmaWxsPSJub25lIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzExNzg3Xzg3NzY3KSI+CjxwYXRoIGQ9Ik00LjUgMTJIMjAuNSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIxLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNNC41IDYuMjVIMjAuNSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIxLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNNC41IDE3Ljc1SDIwLjUiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMS40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8xMTc4N184Nzc2NyI+CjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNSkiLz4KPC9jbGlwUGF0aD4KPC9kZWZzPgo8L3N2Zz4K');
+        background-repeat: no-repeat;
+        margin: 15px 0px 0px 20px;
+        width: 8vw;
+    }
+
+    .logo img {
+        object-fit: contain;
+        margin: 5px 0px 0px -70px;
+    }
+
+    .download-icon {
+        background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIj4KICA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTE1NzBfODc5OTgpIj4KICAgIDxwYXRoIGQ9Ik0xOCAyMC4yNVYzLjc1QzE4IDIuOTIxNTcgMTcuMzI4NCAyLjI1IDE2LjUgMi4yNUw3LjUgMi4yNUM2LjY3MTU3IDIuMjUgNiAyLjkyMTU3IDYgMy43NUw2IDIwLjI1QzYgMjEuMDc4NCA2LjY3MTU3IDIxLjc1IDcuNSAyMS43NUgxNi41QzE3LjMyODQgMjEuNzUgMTggMjEuMDc4NCAxOCAyMC4yNVoiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMS40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDxwYXRoIGQ9Ik0xMiAxMC4xMDU1TDEyIDE3LjYwNTUiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMS40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDxwYXRoIGQ9Ik05Ljc1IDE1LjM1NTVMMTIgMTcuNjA1NUwxNC4yNSAxNS4zNTU1IiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjEuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNMTAuNSA0LjVIMTMuNSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIxLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwvZz4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0iY2xpcDBfMTE1NzBfODc5OTgiPgogICAgICA8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+CiAgICA8L2NsaXBQYXRoPgogIDwvZGVmcz4KPC9zdmc+Cg==');
+        background-repeat: no-repeat;
+        width: 7vw;
+    }
+
+    .download-icon {
+        margin: 11px 0px 0px 18px;
+    }
+
+    .login img {
+        margin-left: 10px;
+        margin-right: -5px;
+    }
+
+    .arrow,
+    .Become-a-Seller,
+    .dots,
+    .cart p,
+    .arrow2 {
+        display: none;
+    }
+
+    .cart {
+        padding-left: 4%;
+    }
+
+    .icon svg {
+        width: 70%;
+        margin-top: -5px;
+    }
+
+    .search {
+        position: fixed;
+        top: 80px;
+        margin-left: 15px;
+        z-index: 5;
+        width: 90%;
+    }
+
+    .search input {
+        width: 100%;
+        height: 30px;
+        font-size: 10px;
+        padding-left: 40px;
+    }
+
+    .category {
+        justify-content: unset;
+        margin: 0px;
+        margin-top: 130px;
+        width: 100vw;
+        overflow: scroll;
+        scrollbar-width: none;
+        padding-right: 12px;
+    }
+
+    .category p {
+        font-size: 9px;
+    }
+
+    .category img {
+        width: 100%;
+        height: 50%;
+    }
+
+    .pad-for-cat {
+        padding: 5px 5px;
+    }
+
+    .slider {
+        width: 103%;
+        height: 0px;
+        margin: 0px;
+        margin-top: 6px;
+    }
+
+    .swipe1,
+    .swipe2 {
+        display: none;
+    }
+
+    .carousel-indicators {
+        margin-bottom: 7px;
+    }
+
+    .button-con {
+        padding: 1px;
+        width:20%;
+    }
+    .carousel-indicators [data-bs-target]{
+        width: 3px;
+        height: 3px;
+    }
+    .card1-con {
+        margin-top: 19%;
+        margin-left: 0px;
+        width: 103%;
+    }
+
+    .card1 {
+        margin: 0px;
+        width: 103%;
+        height: 151%;
+    }
+
+    .phones {
+        margin: 3% 0px 0px 8%;
+        grid-template-columns: 43vw 43vw;
+        padding-bottom: 1%;
+    }
+
+    .swipe-for-phone {
+        display: none;
+    }
+
+    .moto,
+    .vivo,
+    .poco,
+    .redmi,
+    .poco-x6,
+    .poco-m6 {
+        width: 75%;
+        height: 100%;
+    }
+
+    .phones img {
+        width: 50%;
+        height: 50%;
+    }
+
+    .phones p,
+    b {
+        font-size: 9px;
+    }
+
+    .title {
+        padding: 4%;
+        font-size: 12px;
+    }
+
+    .blue-arrow {
+        width: 20px;
+        height: 20px;
+        margin: 8px 15px 0px 0px;
+    }
+
+    .flight {
+        display: none;
+    }
+
+    .card2 {
+        margin: 55% 0px 0px 0px;
+        width: 100vw;
+        overflow: hidden;
+    }
+
+    .card2 img {
+        width: 109%;
+        height: 100%;
+    }
+
+    .c2 {
+        margin: 0px 4%;
+    }
+
+    .card3 {
+        width: 103%;
+        height: 100%;
+        margin: 0px;
+        margin-top: 5px;
+        overflow: hidden;
+    }
+
+    .deals {
+        grid-template-columns: 43vw 43vw;
+        column-gap: 8%;
+        margin-left: 8%;
+        padding-bottom: 1%;
+
+    }
+
+    .top-deals {
+        padding: 4%;
+    }
+
+    .deals img {
+        width: 50%;
+        height: 24vh;
+    }
+    .deals .c3-2 img{
+        width: 70%;
+    }
+    .deals .c3-3 img{
+        width: 65%;
+    }
+    .card3 p,
+    .card3 b {
+        font-size: 9px;
+    }
+
+    .top-deals p {
+        font-size: 12px;
+    }
+
+    .swipe-for-deals {
+        display: none;
+    }
+
+    .blue-arrow2 {
+        width: 20px;
+        height: 20px;
+        margin: 15px 10px 0px 0px;
+    }
+
+    .c3-7 {
+        display: none;
+    }
+
+    .c3-1 {
+        margin: 0px;
+    }
+
+    .c3-1,
+    .c3-2,
+    .c3-3,
+    .c3-4,
+    .c3-5,
+    .c3-6 {
+        width: 74%;
+        height: 100%;
+        margin-bottom: 10px;
+        margin-bottom: -70px
+    }
+
+    .info {
+        margin: 0px;
+        margin-top: 10px;
+        width: 100vw;
+        padding: 5px 0px;
+        padding-right: 12px;
+    }
+
+    .info * {
+        font-size: 5px;
+    }
+
+    .info p {
+        padding: 2%;
+    }
+
+    .about {
+        margin-left: 7px;
+    }
+
+    .Mail-Us {
+        border-left: 1px solid silver;
+        padding-left: 6px;
+    }
+
+    .social img {
+        width: 5vw;
+        height: 3vh;
+    }
+
+    footer {
+        width: 100vw;
+        margin: 0px;
+        padding: 10px 0px;
+        padding-right: 12px;
+    }
+
+    footer p {
+        font-size: 5px;
+    }
+
+    footer img {
+        width: 16%;
+    }
+
+    .payment-mode img {
+        width: 15vw;
+    }
+
+    /* animation starts here */
+
+    .card1 img:hover {
+        width: 60%;
+        height: 60%;
+    }
+
+    .card3 img:hover {
+        width: 60%;
+        height: 30vh;
+        object-fit: contain;
+    }
+    .deals .c3-2 img:hover{
+        width: 90%;
+    }
+    .deals .c3-3 img:hover{
+        width: 85%;
+    }
+    /* animation ends here */
+
+}
